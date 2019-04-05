@@ -10,3 +10,5 @@ Latitude and longitude information of the incident are used to generate the heat
 
 It is based on the incidents occured between 2010 and 2017.
 
+https://nbviewer.jupyter.org/github/jaganmohan-akkineni/Data-Science-Portfolio/blob/master/NYC_Rats/NYC_Rats2.ipynb
+
